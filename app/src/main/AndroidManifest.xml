@@ -13,7 +13,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Wsr44"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Start"></activity>
+        <activity android:name=".profily"></activity>
+        <activity android:name=".Start" />
         <activity android:name=".Login" />
         <activity android:name=".Hello" />
         <activity android:name=".MainActivity">

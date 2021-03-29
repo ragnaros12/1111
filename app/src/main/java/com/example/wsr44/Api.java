@@ -13,4 +13,7 @@ public interface Api {
 
     @GET("/api/quotes")
     public Call<quotes> quotes();
+
+    @GET("/api/feelings")
+    public Call<feelings> feelings();
 }
